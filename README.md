@@ -23,7 +23,7 @@ Follow these steps to set up the environment:
 
 3. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/apriori-algorithm.git
+   git clone https://github.com/kaushik9038/arm_project.git
    cd apriori-algorithm
    ```
 
